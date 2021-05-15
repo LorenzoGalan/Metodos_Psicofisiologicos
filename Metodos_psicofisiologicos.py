@@ -2,13 +2,6 @@
 """
 Created on Thu Mar 18 13:02:21 2021
 
-@author: Sergio Profumo
-"""
-
-
-
-
-
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
